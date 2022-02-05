@@ -23,10 +23,40 @@ The Bible—both Hebrew and New Testament—is a complex and fascinating text, w
 Requirements and Grading
 ------------------------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Three essays (25% each) | 75% |
-| Attendance, attitude, and participation | 25%   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three essays (25% each)
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, attitude, and participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 ### Essays
 
@@ -57,25 +87,225 @@ Plagiarism - use of another's intellectual work without acknowledgement - is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Hebrew Bible: Torah**{{< /td-colspan >}} |||
-| 2-5 | Genesis | &nbsp; |
-| 6-7 | Exodus | First essay due in Ses #7 |
-| 8-9 | Leviticus, Numbers, and Deuteronomy | &nbsp; |
-| {{< td-colspan 3 >}}**Deuteronomic history**{{< /td-colspan >}} |||
-| 10 | Samuel | &nbsp; |
-| 11 | Samuel, Kings | &nbsp; |
-| {{< td-colspan 3 >}}**Prophecy**{{< /td-colspan >}} |||
-| 12-13 | Isaiah | &nbsp; |
-| {{< td-colspan 3 >}}**Wisdom literature**{{< /td-colspan >}} |||
-| 14-15 | Job | &nbsp; |
-| {{< td-colspan 3 >}}**Apocalyptic**{{< /td-colspan >}} |||
-| 16 | Daniel | Second essay due |
-| {{< td-colspan 3 >}}**New testament**{{< /td-colspan >}} |||
-| 17-19 | Synoptic Gospels (Mark, Matthew, and Luke) | &nbsp; |
-| 20-21 | John | &nbsp; |
-| 22 | Acts of the Apostles | &nbsp; |
-| 23-24 | Pauline Epistles (Galatians and Romans) | &nbsp; |
-| 25 | Revelation | Third essay due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Hebrew Bible: Torah**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-5
+{{< tdclose >}}
+{{< tdopen >}}
+Genesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Exodus
+{{< tdclose >}}
+{{< tdopen >}}
+First essay due in Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Leviticus, Numbers, and Deuteronomy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Deuteronomic history**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel, Kings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Prophecy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Isaiah
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Wisdom literature**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Job
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Apocalyptic**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Daniel
+{{< tdclose >}}
+{{< tdopen >}}
+Second essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**New testament**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Synoptic Gospels (Mark, Matthew, and Luke)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+John
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Acts of the Apostles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Pauline Epistles (Galatians and Romans)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Revelation
+{{< tdclose >}}
+{{< tdopen >}}
+Third essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
